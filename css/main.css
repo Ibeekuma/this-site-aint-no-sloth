@@ -4,3 +4,28 @@ html {
   background-size: 48px;
   background-color: #bea586;
 }
+
+h1 {
+  color: #fff;
+  text-shadow: .07em .07em .07em rgba(0, 0, 0, .8);
+}
+
+.sloth-eating {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(28, 14, 0, .8));
+  background-size: cover;
+  margin-top: .9rem;
+}
+
+.border {
+  border-top: 2px solid rgba(28, 14, 0, .5);
+  border-bottom: 2px solid rgba(28, 14, 0, .5);
+}
+
+main {
+  background-color: #fff;
+}
+
+p, a {
+  font-family: Verdana, sans-serif;
+  color: #000;
+}
